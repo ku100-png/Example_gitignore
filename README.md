@@ -1,12 +1,10 @@
 # Example_gitignore
  
-@verbatim
   ******************************************************************************
   * @file    Readme
   * @author  Ku100-png
   * @brief   Description of repository
   ******************************************************************************
-  @endverbatim
 
 Example of .gitignore files for .c, c++, Keil projects and Keil + CubeMX projects.
 It's contain:
